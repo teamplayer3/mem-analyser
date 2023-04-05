@@ -2,7 +2,7 @@
 
 **WIP**
 
-A tool to analyse memory usage on a microcontroller.
+A tool to analyse memory usage on a microcontroller. (for STM32G431RBTx target)
 
 ## Features
 
